@@ -31,4 +31,4 @@ Here is my running list of assignments I need to finish for this class.
  - [x] Slack sign-up
  - [x] Prof greeting
  - [x] In class activity 1
- - [x] Lab Week 1
+ - [ ] Lab Week 1
