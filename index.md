@@ -20,7 +20,7 @@ Today I worked on Lab 1, where I refreshed my knowledge of working with git comm
 4. Pushed the staged commits to my remote repository
 5. Created this User Page with Markdown and published it through GitHub pages
 
-Some commands I used today are `git add`, `git commit`, and `git push` to push changes from my local repository to my remote repository. Here is a [screenshot]() of the commands I used.
+Some commands I used today are `git add`, `git commit`, and `git push` to push changes from my local repository to my remote repository. Here is a [screenshot](UserPage/screenshots/Screen%Shot%2024-04-03%at%3.49.11%PM.png) of the commands I used.
 
 I learned that instead of having to use terminal commands to push these changes, I could use [VS Code](https://code.visualstudio.com/downloadLinks%20to%20an%20external%20site.) to both edit files and push changes. This method was a lot more intuitive for me than using the terminal, so I will be using this method more often.
 
